@@ -8,7 +8,7 @@ Some of the emojis are obscure\
 \
 \
 Sources : https://github.com/AngeloCore/discord-buttons \
-Required modules:\
+Required modules:
 ```
 emojis.json
 discord.js
