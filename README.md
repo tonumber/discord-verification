@@ -8,6 +8,7 @@ Known issues:\
 Mobile support is not yet added, do not use in a community server where users are mainly mobile\
 Some of the emojis are obscure\
 \
+made by Agent#9895
 \
 ![img](https://cdn.discordapp.com/attachments/803695735726932004/848259064269504562/unknown.png) \
 ![img2](https://cdn.discordapp.com/attachments/803695735726932004/848259452574367804/unknown.png) \
