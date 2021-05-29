@@ -10,6 +10,7 @@ Some of the emojis are obscure\
 \
 \
 ![img](https://cdn.discordapp.com/attachments/803695735726932004/848259064269504562/unknown.png) \
+![img2](https://cdn.discordapp.com/attachments/803695735726932004/848259452574367804/unknown.png) \
 YOU NEED NODEJS INSTALLED\
 \
 Sources : https://github.com/AngeloCore/discord-buttons \
