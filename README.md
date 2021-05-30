@@ -6,7 +6,7 @@ To use the bot the command is !verify. It has a cooldown of 30 seconds (if the u
 \
 \
 \
-**Dont want to host it yourself? No problem! https://discordapp.com/api/oauth2/authorize?client_id=803683979608719361&scope=bot&permissions=8 **
+**Dont want to host it yourself? No problem! https://discordapp.com/api/oauth2/authorize?client_id=803683979608719361&scope=bot&permissions=8 **\
 Known issues:\
 Mobile support is not yet added, do not use in a community server where users are mainly mobile\
 Some of the emojis are obscure\
