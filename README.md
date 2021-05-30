@@ -4,7 +4,6 @@ Please create a role named `Verified` (or edit the source to the bot)\
 \
 To use the bot the command is !verify. It has a cooldown of 30 seconds (if the user fails the command or is successful)\
 \
-USE CASES: IF YOU DECIDE TO USE MY IDEA IN YOUR BOT - CREDIT ME PLEASE. THANK YOU
 \
 Dont want to host it yourself? No problem! https://discordapp.com/api/oauth2/authorize?client_id=803683979608719361&scope=bot&permissions=8 \
 Known issues:\
@@ -24,3 +23,5 @@ emoji.json
 discord.js
 discord-buttons
 ```
+\
+USE CASES: IF YOU DECIDE TO USE MY IDEA IN YOUR BOT - CREDIT ME PLEASE. THANK YOU
